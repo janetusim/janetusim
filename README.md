@@ -1,5 +1,5 @@
-- 👋 Hi, my name is janetusim
-- 👀 I’m interested in creating art through code whether that is a game, music production tool or beautiful web app.
+- 👋 Hi, my name is Nick.
+- 👀 I’m interested in solving problems.
 
 <!---
 niko22225/niko22225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
